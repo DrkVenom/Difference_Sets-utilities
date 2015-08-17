@@ -1,0 +1,37 @@
+>> set_parameters(15)
+(v,k,l)=(15,7,3) is a potential set of parameters.
+There are 1 potential candidates for difference sets.
+
+====================================================================
+
+>> set_parameters(277)
+(v,k,l)=(277,24,2) is a potential set of parameters.
+(v,k,l)=(277,69,17) is a potential set of parameters.
+(v,k,l)=(277,93,31) is a potential set of parameters.
+There are 3 potential candidates for difference sets.
+
+====================================================================
+
+>> set_parameters(6557)
+(v,k,l)=(6557,1640,410) is a potential set of parameters.
+(v,k,l)=(6557,1937,572) is a potential set of parameters.
+(v,k,l)=(6557,2981,1355) is a potential set of parameters.
+There are 3 potential candidates for difference sets.
+
+====================================================================
+
+>> set_parameters(9744653)
+(v,k,l)=(9744653,2436164,609041) is a potential set of parameters.
+There are 1 potential candidates for difference sets.
+
+====================================================================
+
+>> set_parameters(5167)
+(v,k,l)=(5167,288,16) is a potential set of parameters.
+(v,k,l)=(5167,820,130) is a potential set of parameters.
+(v,k,l)=(5167,1107,237) is a potential set of parameters.
+(v,k,l)=(5167,1477,422) is a potential set of parameters.
+(v,k,l)=(5167,1764,602) is a potential set of parameters.
+(v,k,l)=(5167,2296,1020) is a potential set of parameters.
+(v,k,l)=(5167,2583,1291) is a potential set of parameters.
+There are 7 potential candidates for difference sets.
