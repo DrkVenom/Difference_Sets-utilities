@@ -42,7 +42,7 @@ various utilities for difference sets
 1) none
 
 == NOTES ==
-1) The inputs are the full set of parameters v,k,l. The output a list of parameters x,y,z that satisfy the above Diophantine equation.
+1) The inputs are a set of difference set parameters (v,n,l) where n is known as a fourth variable to define difference sets, n=k-l. The output a list of parameters x,y,z that satisfy the above Diophantine equation.
 
 2) To limit time, only the values 0-1000 are tested for x, y, and z. This only creates a partial solution. We only need to find one trio to confirm the existence. 
 
